@@ -1,0 +1,8 @@
+{
+  "input_sha256": "ac7fbaa64dc3d77d75744c0506a717ab99b20f2da5970dd62c1e5eb36dace454",
+  "source": "outputs\\reconciliation\\measured_energy_runtime_long_RAW_SCOPE.csv",
+  "scope": "Per-job noncontended offline hardware placement; no claimed multi-GPU runtime energy savings",
+  "deadline_definition": "factor x RTX3060 measured duration; scenario assumption, not empirical job deadlines",
+  "energy": "Original protobuf total_energy in kWh converted to joules by audited extractor",
+  "status": "measured source must pass source reconciliation, output separate from predictions"
+}

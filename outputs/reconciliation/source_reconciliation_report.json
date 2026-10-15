@@ -1,0 +1,12 @@
+{
+  "hardware_source_records": 361,
+  "processed_records": 361,
+  "joined_records": 361,
+  "left_or_right_unmatched": 0,
+  "complete_case_architectures": 88,
+  "complete_case_pairs": 352,
+  "median_processed_target_over_raw_total_energy_joules": 1.0,
+  "p95_relative_difference": 0.0,
+  "unit_status": "CONFIRMED_NUMERICAL_EQUIVALENCE",
+  "claims_rule": "Use original total_energy(kWh) x 3,600,000 as source physical energy; do not call processed target equivalent unless verified"
+}

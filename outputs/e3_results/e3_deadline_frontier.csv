@@ -1,0 +1,7 @@
+deadline_factor,feasible_architectures,infeasible_architectures,oracle_energy_joules_feasible_only,fixed_first_energy_joules_feasible_only,oracle_saving_vs_fixed_first_pct,oracle_mean_runtime_seconds_feasible_only,fixed_first_mean_runtime_seconds_feasible_only,different_device_decisions,comparison_scope
+0.75,70,18,3349328.4,3349328.4,0.0,101.50442876475198,101.50442876475198,0,Only jobs feasible for BOTH policies; no queueing or idle power
+1.0,88,0,3702081.6000000006,3727173.600000001,0.6732179043122772,163.98321310769427,174.86943380670115,9,Only jobs feasible for BOTH policies; no queueing or idle power
+1.25,88,0,3702081.6000000006,3727173.600000001,0.6732179043122772,163.98321310769427,174.86943380670115,9,Only jobs feasible for BOTH policies; no queueing or idle power
+1.5,88,0,3702081.6000000006,3727173.600000001,0.6732179043122772,163.98321310769427,174.86943380670115,9,Only jobs feasible for BOTH policies; no queueing or idle power
+2.0,88,0,3702081.6000000006,3727173.600000001,0.6732179043122772,163.98321310769427,174.86943380670115,9,Only jobs feasible for BOTH policies; no queueing or idle power
+3.0,88,0,3702081.6000000006,3727173.600000001,0.6732179043122772,163.98321310769427,174.86943380670115,9,Only jobs feasible for BOTH policies; no queueing or idle power

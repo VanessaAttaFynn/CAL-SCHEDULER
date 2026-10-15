@@ -1,0 +1,353 @@
+architecture_hash,epochs,duration_seconds,energy_kwh_raw,energy_joules_raw,gpu_type,source_file,source_record,target,_merge,ratio_target_to_raw_j,relative_difference
+001a6fcc8b38cbc515be788a86bdc804,4,154.60513615608215,0.018713,67366.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,337,67366.8,both,1.0,0.0
+001a6fcc8b38cbc515be788a86bdc804,4,141.9164755344391,0.009417,33901.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,325,33901.2,both,1.0,0.0
+001a6fcc8b38cbc515be788a86bdc804,4,126.36111283302309,0.019969,71888.40000000001,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,337,71888.40000000001,both,1.0,0.0
+001a6fcc8b38cbc515be788a86bdc804,4,212.8402578830719,0.020342,73231.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,337,73231.2,both,1.0,0.0
+01f0f1cf81ef9193f2946db78ea759ee,4,206.90289902687076,0.02487,89532.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,185,89532.0,both,1.0,0.0
+01f0f1cf81ef9193f2946db78ea759ee,4,206.33804154396057,0.013623,49042.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,181,49042.8,both,1.0,0.0
+01f0f1cf81ef9193f2946db78ea759ee,4,180.2776176929474,0.027445,98802.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,185,98802.0,both,1.0,0.0
+01f0f1cf81ef9193f2946db78ea759ee,4,256.56388998031616,0.024848,89452.79999999999,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,185,89452.79999999999,both,1.0,0.0
+03d84046b0ce567b2b59e85903aa2f5f,4,236.30424523353577,0.028957,104245.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,173,104245.2,both,1.0,0.0
+03d84046b0ce567b2b59e85903aa2f5f,4,231.01073336601257,0.016548,59572.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,169,59572.8,both,1.0,0.0
+03d84046b0ce567b2b59e85903aa2f5f,4,217.77088141441345,0.03301,118836.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,173,118836.0,both,1.0,0.0
+03d84046b0ce567b2b59e85903aa2f5f,4,300.3098924160004,0.026788,96436.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,173,96436.8,both,1.0,0.0
+043721b9c7fe8c5fad811d47d83132ec,4,62.69350075721741,0.007568,27244.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,253,27244.8,both,1.0,0.0
+043721b9c7fe8c5fad811d47d83132ec,4,56.60024976730347,0.003183,11458.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,245,11458.8,both,1.0,0.0
+043721b9c7fe8c5fad811d47d83132ec,4,58.44797945022583,0.009189,33080.399999999994,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,253,33080.399999999994,both,1.0,0.0
+043721b9c7fe8c5fad811d47d83132ec,4,79.65198159217834,0.007761,27939.6,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,253,27939.6,both,1.0,0.0
+08677281806ea9c8ea2451ce3093e9c3,4,96.75684404373168,0.012961,46659.6,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,353,46659.6,both,1.0,0.0
+08677281806ea9c8ea2451ce3093e9c3,4,94.56927490234376,0.005788,20836.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,341,20836.8,both,1.0,0.0
+08677281806ea9c8ea2451ce3093e9c3,4,81.60193729400635,0.012375,44550.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,353,44550.0,both,1.0,0.0
+08677281806ea9c8ea2451ce3093e9c3,4,131.20148134231567,0.013427,48337.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,353,48337.2,both,1.0,0.0
+0922ee996ecffb2c0c5f16d1261f6dfa,4,154.426185131073,0.018821,67755.6,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,113,67755.6,both,1.0,0.0
+0922ee996ecffb2c0c5f16d1261f6dfa,4,160.319650888443,0.011038,39736.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,109,39736.8,both,1.0,0.0
+0922ee996ecffb2c0c5f16d1261f6dfa,4,126.66724634170532,0.020443,73594.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,113,73594.8,both,1.0,0.0
+0922ee996ecffb2c0c5f16d1261f6dfa,4,207.14211511611936,0.019212,69163.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,113,69163.2,both,1.0,0.0
+09fc2d10bdd6225e167a6f81a22a3f06,4,154.8296058177948,0.018963,68266.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,117,68266.8,both,1.0,0.0
+09fc2d10bdd6225e167a6f81a22a3f06,4,154.48721933364868,0.010064,36230.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,113,36230.4,both,1.0,0.0
+09fc2d10bdd6225e167a6f81a22a3f06,4,152.81053233146667,0.02538,91368.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,117,91368.0,both,1.0,0.0
+09fc2d10bdd6225e167a6f81a22a3f06,4,205.63174700737,0.019811,71319.59999999999,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,117,71319.59999999999,both,1.0,0.0
+0ee493fe7bb618a0ae642840558f62a0,4,125.39896750450134,0.018068,65044.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,181,65044.8,both,1.0,0.0
+0ee493fe7bb618a0ae642840558f62a0,4,138.33923959732056,0.009571,34455.6,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,177,34455.6,both,1.0,0.0
+0ee493fe7bb618a0ae642840558f62a0,4,134.61509943008423,0.022067,79441.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,181,79441.2,both,1.0,0.0
+0ee493fe7bb618a0ae642840558f62a0,4,175.41793990135193,0.018125,65249.99999999999,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,181,65249.99999999999,both,1.0,0.0
+168e95938db8e7c52112e58c0f292079,4,149.85255670547485,0.018196,65505.6,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,77,65505.6,both,1.0,0.0
+168e95938db8e7c52112e58c0f292079,4,132.20112109184265,0.00681,24516.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,73,24516.0,both,1.0,0.0
+168e95938db8e7c52112e58c0f292079,4,102.50963473320007,0.016259,58532.4,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,77,58532.4,both,1.0,0.0
+168e95938db8e7c52112e58c0f292079,4,200.7871189117432,0.017768,63964.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,77,63964.8,both,1.0,0.0
+19092e5d6cd57f13de1b98f46e22aa22,4,206.8845579624176,0.029551,106383.6,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,189,106383.6,both,1.0,0.0
+19092e5d6cd57f13de1b98f46e22aa22,4,222.17821288108823,0.014993,53974.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,185,53974.8,both,1.0,0.0
+19092e5d6cd57f13de1b98f46e22aa22,4,171.6045699119568,0.028815,103734.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,189,103734.0,both,1.0,0.0
+19092e5d6cd57f13de1b98f46e22aa22,4,293.0290377140045,0.028848,103852.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,189,103852.8,both,1.0,0.0
+1965d5ec723711e8cb36cbb979d90b3f,4,191.92033433914185,0.02471,88956.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,193,88956.0,both,1.0,0.0
+1965d5ec723711e8cb36cbb979d90b3f,4,187.5017592906952,0.011344,40838.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,189,40838.4,both,1.0,0.0
+1965d5ec723711e8cb36cbb979d90b3f,4,134.70552468299866,0.020936,75369.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,193,75369.6,both,1.0,0.0
+1965d5ec723711e8cb36cbb979d90b3f,4,269.4749369621277,0.02365,85140.0,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,193,85140.0,both,1.0,0.0
+1a23d766bc88a66c08a77daa62511899,4,251.10492658615112,0.037809,136112.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,321,136112.4,both,1.0,0.0
+1a23d766bc88a66c08a77daa62511899,4,319.7642641067505,0.02107,75852.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,309,75852.0,both,1.0,0.0
+1a23d766bc88a66c08a77daa62511899,4,247.4107687473297,0.039402,141847.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,321,141847.2,both,1.0,0.0
+1a23d766bc88a66c08a77daa62511899,4,354.7587511539459,0.036893,132814.80000000002,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,321,132814.80000000002,both,1.0,0.0
+1af995a92568cf42af2c2668f72834ea,4,152.32191491127014,0.019421,69915.6,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,317,69915.6,both,1.0,0.0
+1af995a92568cf42af2c2668f72834ea,4,155.61231064796448,0.010206,36741.6,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,305,36741.6,both,1.0,0.0
+1af995a92568cf42af2c2668f72834ea,4,131.0710654258728,0.020568,74044.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,317,74044.8,both,1.0,0.0
+1af995a92568cf42af2c2668f72834ea,4,211.58362412452695,0.018451,66423.59999999999,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,317,66423.59999999999,both,1.0,0.0
+229ad37fca0db5be24bfcce9cb434885,4,239.5114734172821,0.034845,125442.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,237,125442.0,both,1.0,0.0
+229ad37fca0db5be24bfcce9cb434885,4,282.5495777130127,0.019762,71143.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,229,71143.2,both,1.0,0.0
+229ad37fca0db5be24bfcce9cb434885,4,232.70763492584229,0.037002,133207.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,237,133207.2,both,1.0,0.0
+229ad37fca0db5be24bfcce9cb434885,4,328.744735956192,0.034118,122824.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,237,122824.8,both,1.0,0.0
+232b900e952d86a83b0ff85c0a22cca0,4,237.8894031047821,0.032177,115837.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,25,115837.2,both,1.0,0.0
+232b900e952d86a83b0ff85c0a22cca0,4,274.3373074531555,0.019155,68958.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,25,68958.0,both,1.0,0.0
+232b900e952d86a83b0ff85c0a22cca0,4,290.14585876464844,0.05525,198900.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,25,198900.0,both,1.0,0.0
+232b900e952d86a83b0ff85c0a22cca0,4,332.29875326156616,0.034053,122590.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,25,122590.8,both,1.0,0.0
+243037e12607b17d7f6704fcee4054af,4,105.79645204544067,0.01423,51228.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,53,51228.0,both,1.0,0.0
+243037e12607b17d7f6704fcee4054af,4,121.07310128211977,0.00853,30708.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,53,30708.0,both,1.0,0.0
+243037e12607b17d7f6704fcee4054af,4,100.2823362350464,0.016084,57902.4,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,53,57902.4,both,1.0,0.0
+243037e12607b17d7f6704fcee4054af,4,153.55231738090515,0.014586,52509.6,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,53,52509.6,both,1.0,0.0
+278a65c91e279624407615a84f3282c4,4,146.38139629364014,0.020745,74682.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,309,74682.0,both,1.0,0.0
+278a65c91e279624407615a84f3282c4,4,145.57981252670288,0.009097,32749.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,297,32749.2,both,1.0,0.0
+278a65c91e279624407615a84f3282c4,4,133.13705706596377,0.021489,77360.40000000001,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,309,77360.40000000001,both,1.0,0.0
+278a65c91e279624407615a84f3282c4,4,206.69353556633,0.01906,68616.0,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,309,68616.0,both,1.0,0.0
+28a58bc7944a6cfc6749c9f786a81c9b,4,167.8816783428192,0.02028,73008.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,137,73008.0,both,1.0,0.0
+28a58bc7944a6cfc6749c9f786a81c9b,4,168.5598428249359,0.010281,37011.6,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,133,37011.6,both,1.0,0.0
+28a58bc7944a6cfc6749c9f786a81c9b,4,135.21856427192688,0.021059,75812.40000000001,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,137,75812.40000000001,both,1.0,0.0
+28a58bc7944a6cfc6749c9f786a81c9b,4,234.56030559539795,0.022663,81586.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,137,81586.8,both,1.0,0.0
+2a52c4ead5953583354572b64675c153,4,185.68506693840027,0.023094,83138.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,205,83138.4,both,1.0,0.0
+2a52c4ead5953583354572b64675c153,4,180.6134889125824,0.011423,41122.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,197,41122.8,both,1.0,0.0
+2a52c4ead5953583354572b64675c153,4,171.72599077224731,0.028402,102247.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,205,102247.2,both,1.0,0.0
+2a52c4ead5953583354572b64675c153,4,264.31052803993225,0.023829,85784.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,205,85784.4,both,1.0,0.0
+2aacadf61dfc59833d015cbbe2a755fd,4,282.4544711112976,0.038793,139654.80000000002,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,209,139654.80000000002,both,1.0,0.0
+2aacadf61dfc59833d015cbbe2a755fd,4,344.8678662776947,0.025825,92970.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,201,92970.0,both,1.0,0.0
+2aacadf61dfc59833d015cbbe2a755fd,4,248.9411103725433,0.040442,145591.19999999998,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,209,145591.19999999998,both,1.0,0.0
+2aacadf61dfc59833d015cbbe2a755fd,4,395.7180845737457,0.040272,144979.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,209,144979.2,both,1.0,0.0
+2bd05a35a814d8771bc0a0593bfd1800,4,161.4177017211914,0.021601,77763.59999999999,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,261,77763.59999999999,both,1.0,0.0
+2bd05a35a814d8771bc0a0593bfd1800,4,162.98169231414795,0.010461,37659.6,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,253,37659.6,both,1.0,0.0
+2bd05a35a814d8771bc0a0593bfd1800,4,109.94707775115968,0.014071,50655.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,261,50655.6,both,1.0,0.0
+2bd05a35a814d8771bc0a0593bfd1800,4,228.46428179740903,0.020754,74714.40000000001,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,261,74714.40000000001,both,1.0,0.0
+2f46c9d2f1cff176f34a2295c49822bc,4,121.31883263587952,0.015638,56296.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,89,56296.8,both,1.0,0.0
+2f46c9d2f1cff176f34a2295c49822bc,4,125.74759244918825,0.00807,29052.000000000004,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,85,29052.000000000004,both,1.0,0.0
+2f46c9d2f1cff176f34a2295c49822bc,4,76.21189737319946,0.010026,36093.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,89,36093.6,both,1.0,0.0
+2f46c9d2f1cff176f34a2295c49822bc,4,166.50743865966797,0.015752,56707.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,89,56707.2,both,1.0,0.0
+31d1039b23e8e5454fcc96406b9c94e5,4,113.84749984741212,0.013872,49939.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,105,49939.2,both,1.0,0.0
+31d1039b23e8e5454fcc96406b9c94e5,4,117.01685094833374,0.006825,24570.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,101,24570.0,both,1.0,0.0
+31d1039b23e8e5454fcc96406b9c94e5,4,74.22235703468323,0.009747,35089.200000000004,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,105,35089.200000000004,both,1.0,0.0
+31d1039b23e8e5454fcc96406b9c94e5,4,167.3890368938446,0.014767,53161.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,105,53161.2,both,1.0,0.0
+33d2a114f6385661657c44b49cc83815,4,183.4560489654541,0.025448,91612.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,305,91612.8,both,1.0,0.0
+33d2a114f6385661657c44b49cc83815,4,193.08474016189572,0.012717,45781.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,293,45781.2,both,1.0,0.0
+33d2a114f6385661657c44b49cc83815,4,113.52153611183168,0.013973,50302.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,305,50302.8,both,1.0,0.0
+33d2a114f6385661657c44b49cc83815,4,252.85256338119507,0.023514,84650.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,305,84650.4,both,1.0,0.0
+3407944b22d4b1d0cccbd8e070424ce4,4,121.82160520553587,0.015322,55159.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,129,55159.2,both,1.0,0.0
+3407944b22d4b1d0cccbd8e070424ce4,4,123.6517732143402,0.007793,28054.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,125,28054.8,both,1.0,0.0
+3407944b22d4b1d0cccbd8e070424ce4,4,75.61210322380066,0.010022,36079.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,129,36079.2,both,1.0,0.0
+3407944b22d4b1d0cccbd8e070424ce4,4,172.8903410434723,0.014353,51670.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,129,51670.8,both,1.0,0.0
+3835552b2806f980e414bef37786ea06,4,156.27642607688904,0.022973,82702.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,221,82702.8,both,1.0,0.0
+3835552b2806f980e414bef37786ea06,4,188.1754794120789,0.014168,51004.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,213,51004.8,both,1.0,0.0
+3835552b2806f980e414bef37786ea06,4,96.7479100227356,0.013467,48481.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,221,48481.2,both,1.0,0.0
+3835552b2806f980e414bef37786ea06,4,217.07056140899655,0.024049,86576.40000000001,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,221,86576.40000000001,both,1.0,0.0
+38e55ad9ee9194f5392fcccb3e54a4c3,4,222.8640785217285,0.031494,113378.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,225,113378.4,both,1.0,0.0
+38e55ad9ee9194f5392fcccb3e54a4c3,4,235.49334073066711,0.016515,59453.99999999999,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,217,59453.99999999999,both,1.0,0.0
+38e55ad9ee9194f5392fcccb3e54a4c3,4,137.70174908638,0.018517,66661.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,225,66661.2,both,1.0,0.0
+38e55ad9ee9194f5392fcccb3e54a4c3,4,303.9516625404358,0.029048,104572.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,225,104572.8,both,1.0,0.0
+3af5d23d803ef448b8539054d8c14213,4,139.11773586273193,0.018149,65336.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,5,65336.4,both,1.0,0.0
+3af5d23d803ef448b8539054d8c14213,4,145.7685480117798,0.009734,35042.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,5,35042.4,both,1.0,0.0
+3af5d23d803ef448b8539054d8c14213,4,87.53413224220276,0.010306,37101.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,5,37101.6,both,1.0,0.0
+3af5d23d803ef448b8539054d8c14213,4,198.38755345344543,0.01866,67176.0,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,5,67176.0,both,1.0,0.0
+3c325aea3e66b614c829c5169d038b80,4,154.9227237701416,0.019071,68655.6,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,101,68655.6,both,1.0,0.0
+3c325aea3e66b614c829c5169d038b80,4,153.27061700820923,0.00905,32580.000000000004,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,97,32580.000000000004,both,1.0,0.0
+3c325aea3e66b614c829c5169d038b80,4,98.081116437912,0.012532,45115.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,101,45115.2,both,1.0,0.0
+3c325aea3e66b614c829c5169d038b80,4,222.3018159866333,0.019014,68450.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,101,68450.4,both,1.0,0.0
+3db7e20184e417b4eb1718c5846356a6,4,114.90878891944884,0.014481,52131.600000000006,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,361,52131.600000000006,both,1.0,0.0
+3db7e20184e417b4eb1718c5846356a6,4,116.99055290222168,0.006834,24602.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,349,24602.4,both,1.0,0.0
+3db7e20184e417b4eb1718c5846356a6,4,75.00711965560913,0.009691,34887.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,361,34887.6,both,1.0,0.0
+3db7e20184e417b4eb1718c5846356a6,4,167.99225282669067,0.014538,52336.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,361,52336.8,both,1.0,0.0
+40a32abfcdc45196e1847e9bc3da7e3e,4,201.44794416427607,0.024974,89906.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,265,89906.4,both,1.0,0.0
+40a32abfcdc45196e1847e9bc3da7e3e,4,211.5745756626129,0.014174,51026.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,257,51026.4,both,1.0,0.0
+40a32abfcdc45196e1847e9bc3da7e3e,4,129.59383392333984,0.01567,56412.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,265,56412.0,both,1.0,0.0
+40a32abfcdc45196e1847e9bc3da7e3e,4,288.05539774894714,0.026812,96523.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,265,96523.2,both,1.0,0.0
+471546730eff6ba24d163061e4029d13,4,195.83684611320496,0.028077,101077.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,165,101077.2,both,1.0,0.0
+471546730eff6ba24d163061e4029d13,4,200.35068774223328,0.012987,46753.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,161,46753.2,both,1.0,0.0
+471546730eff6ba24d163061e4029d13,4,120.35241723060608,0.015662,56383.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,165,56383.2,both,1.0,0.0
+471546730eff6ba24d163061e4029d13,4,269.4663145542145,0.026139,94100.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,165,94100.4,both,1.0,0.0
+47fb5adadfc9f8a75e3de789f7591943,4,195.34411573410037,0.02801,100836.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,169,100836.0,both,1.0,0.0
+47fb5adadfc9f8a75e3de789f7591943,4,201.06431674957275,0.012778,46000.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,165,46000.8,both,1.0,0.0
+47fb5adadfc9f8a75e3de789f7591943,4,121.39002823829652,0.014604,52574.4,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,169,52574.4,both,1.0,0.0
+47fb5adadfc9f8a75e3de789f7591943,4,268.5999224185944,0.024807,89305.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,169,89305.2,both,1.0,0.0
+52e567b5b32ee5cbf4a2da75ee75f63f,4,250.0228400230408,0.033589,120920.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,37,120920.4,both,1.0,0.0
+52e567b5b32ee5cbf4a2da75ee75f63f,4,292.7203583717346,0.021895,78822.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,37,78822.0,both,1.0,0.0
+52e567b5b32ee5cbf4a2da75ee75f63f,4,154.3743314743042,0.019942,71791.20000000001,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,37,71791.20000000001,both,1.0,0.0
+52e567b5b32ee5cbf4a2da75ee75f63f,4,348.0850439071655,0.036301,130683.6,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,37,130683.6,both,1.0,0.0
+53cee42601ad14d661bb6878031d6acb,4,65.30836081504822,0.008361,30099.6,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,293,30099.6,both,1.0,0.0
+53cee42601ad14d661bb6878031d6acb,4,71.4052631855011,0.005092,18331.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,281,18331.2,both,1.0,0.0
+53cee42601ad14d661bb6878031d6acb,4,41.16385793685913,0.005336,19209.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,293,19209.6,both,1.0,0.0
+53cee42601ad14d661bb6878031d6acb,4,94.33583092689514,0.009441,33987.6,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,293,33987.6,both,1.0,0.0
+5498ba534c256c9d086596e2b51cf170,4,132.42703866958618,0.017228,62020.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,109,62020.8,both,1.0,0.0
+5498ba534c256c9d086596e2b51cf170,4,143.16534519195557,0.009852,35467.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,105,35467.2,both,1.0,0.0
+5498ba534c256c9d086596e2b51cf170,4,83.21424007415771,0.009938,35776.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,109,35776.8,both,1.0,0.0
+5498ba534c256c9d086596e2b51cf170,4,184.717848777771,0.019454,70034.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,109,70034.4,both,1.0,0.0
+5529e1779433733d1145e20de5d8604e,4,156.35180044174194,0.020275,72990.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,1,72990.0,both,1.0,0.0
+5529e1779433733d1145e20de5d8604e,4,159.21332478523254,0.010194,36698.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,1,36698.4,both,1.0,0.0
+5529e1779433733d1145e20de5d8604e,4,98.18290328979492,0.012022,43279.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,1,43279.2,both,1.0,0.0
+5529e1779433733d1145e20de5d8604e,4,218.37298679351807,0.019159,68972.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,1,68972.4,both,1.0,0.0
+5732fc789e02a84809d88f93fcc70f8e,4,132.71899890899658,0.016317,58741.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,65,58741.2,both,1.0,0.0
+5732fc789e02a84809d88f93fcc70f8e,4,149.08659148216248,0.010625,38250.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,65,38250.0,both,1.0,0.0
+5732fc789e02a84809d88f93fcc70f8e,4,84.62950134277344,0.010758,38728.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,65,38728.8,both,1.0,0.0
+5732fc789e02a84809d88f93fcc70f8e,4,192.03459668159485,0.016828,60580.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,65,60580.8,both,1.0,0.0
+5cdd2affca58e6cedfae506e021f21ca,4,161.36294770240784,0.021475,77310.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,85,77310.0,both,1.0,0.0
+5cdd2affca58e6cedfae506e021f21ca,4,169.23066902160645,0.010156,36561.6,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,81,36561.6,both,1.0,0.0
+5cdd2affca58e6cedfae506e021f21ca,4,104.89279127120972,0.011494,41378.4,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,85,41378.4,both,1.0,0.0
+5cdd2affca58e6cedfae506e021f21ca,4,239.6145181655884,0.022502,81007.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,85,81007.2,both,1.0,0.0
+62c7f446ef395b39de7b04f52d47a73f,4,156.8743236064911,0.019848,71452.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,249,71452.8,both,1.0,0.0
+62c7f446ef395b39de7b04f52d47a73f,4,159.52083444595337,0.010033,36118.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,241,36118.8,both,1.0,0.0
+62c7f446ef395b39de7b04f52d47a73f,4,98.40784621238708,0.011934,42962.4,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,249,42962.4,both,1.0,0.0
+62c7f446ef395b39de7b04f52d47a73f,4,219.3781430721283,0.019676,70833.59999999999,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,249,70833.59999999999,both,1.0,0.0
+66ea4e36f994d4bf11102cbef10a3cb1,4,241.51332592964167,0.034957,125845.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,313,125845.2,both,1.0,0.0
+66ea4e36f994d4bf11102cbef10a3cb1,4,272.7794120311737,0.019456,70041.6,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,301,70041.6,both,1.0,0.0
+66ea4e36f994d4bf11102cbef10a3cb1,4,146.81272768974304,0.019392,69811.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,313,69811.2,both,1.0,0.0
+66ea4e36f994d4bf11102cbef10a3cb1,4,334.55644607543945,0.034369,123728.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,313,123728.4,both,1.0,0.0
+675777ecb1daff61b6917d833406cb82,4,203.3970212936401,0.024972,89899.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,329,89899.2,both,1.0,0.0
+675777ecb1daff61b6917d833406cb82,4,206.0550935268402,0.013433,48358.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,317,48358.8,both,1.0,0.0
+675777ecb1daff61b6917d833406cb82,4,127.22985601425172,0.015556,56001.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,329,56001.6,both,1.0,0.0
+675777ecb1daff61b6917d833406cb82,4,286.15723943710327,0.025374,91346.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,329,91346.4,both,1.0,0.0
+67848998fa467b5229586bebd43ff6bc,4,170.23154067993164,0.022274,80186.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,333,80186.4,both,1.0,0.0
+67848998fa467b5229586bebd43ff6bc,4,179.26202535629272,0.010958,39448.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,321,39448.8,both,1.0,0.0
+67848998fa467b5229586bebd43ff6bc,4,107.46733117103577,0.011992,43171.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,333,43171.2,both,1.0,0.0
+67848998fa467b5229586bebd43ff6bc,4,236.06307435035703,0.022821,82155.6,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,333,82155.6,both,1.0,0.0
+683d2f0f319573826904fad060a1895a,4,198.5529670715332,0.028454,102434.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,301,102434.4,both,1.0,0.0
+683d2f0f319573826904fad060a1895a,4,241.8483564853668,0.016804,60494.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,289,60494.4,both,1.0,0.0
+683d2f0f319573826904fad060a1895a,4,124.50489354133606,0.018691,67287.59999999999,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,301,67287.59999999999,both,1.0,0.0
+683d2f0f319573826904fad060a1895a,4,283.96927881240845,0.028486,102549.6,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,301,102549.6,both,1.0,0.0
+6adf09ef60d9568b0c5ce41d788a41bc,4,109.628103017807,0.015834,57002.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,97,57002.4,both,1.0,0.0
+6adf09ef60d9568b0c5ce41d788a41bc,4,115.87284517288208,0.007287,26233.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,93,26233.2,both,1.0,0.0
+6adf09ef60d9568b0c5ce41d788a41bc,4,67.7237594127655,0.008493,30574.800000000003,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,97,30574.800000000003,both,1.0,0.0
+6adf09ef60d9568b0c5ce41d788a41bc,4,159.3483214378357,0.015434,55562.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,97,55562.4,both,1.0,0.0
+6bb3a5f158c57162b2a9671a1402725f,4,108.09417247772215,0.015189,54680.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,217,54680.4,both,1.0,0.0
+6bb3a5f158c57162b2a9671a1402725f,4,115.7873375415802,0.00729,26244.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,209,26244.0,both,1.0,0.0
+6bb3a5f158c57162b2a9671a1402725f,4,67.80946779251099,0.008487,30553.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,217,30553.2,both,1.0,0.0
+6bb3a5f158c57162b2a9671a1402725f,4,159.923819065094,0.013247,47689.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,217,47689.2,both,1.0,0.0
+6ed519887232b15a95c625ad0b2c1bb1,4,167.51988649368286,0.020968,75484.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,277,75484.8,both,1.0,0.0
+6ed519887232b15a95c625ad0b2c1bb1,4,184.435364484787,0.012896,46425.6,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,269,46425.6,both,1.0,0.0
+6ed519887232b15a95c625ad0b2c1bb1,4,107.19645929336548,0.01207,43452.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,277,43452.0,both,1.0,0.0
+6ed519887232b15a95c625ad0b2c1bb1,4,235.5151698589325,0.020882,75175.20000000001,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,277,75175.20000000001,both,1.0,0.0
+6f26dc0c4fe9591225e8d3d24ed4f8a6,4,97.69131517410278,0.013,46800.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,161,46800.0,both,1.0,0.0
+6f26dc0c4fe9591225e8d3d24ed4f8a6,4,107.16107654571532,0.007039,25340.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,157,25340.4,both,1.0,0.0
+6f26dc0c4fe9591225e8d3d24ed4f8a6,4,61.18447589874268,0.007758,27928.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,161,27928.8,both,1.0,0.0
+6f26dc0c4fe9591225e8d3d24ed4f8a6,4,135.9032323360443,0.012886,46389.6,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,161,46389.6,both,1.0,0.0
+6f6257bc3b12d87b8736e81cd4b7ed8b,4,114.96423029899596,0.015787,56833.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,157,56833.2,both,1.0,0.0
+6f6257bc3b12d87b8736e81cd4b7ed8b,4,124.25500321388245,0.008542,30751.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,153,30751.2,both,1.0,0.0
+6f6257bc3b12d87b8736e81cd4b7ed8b,4,71.09712171554565,0.007976,28713.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,157,28713.6,both,1.0,0.0
+6f6257bc3b12d87b8736e81cd4b7ed8b,4,159.21426010131836,0.015933,57358.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,157,57358.8,both,1.0,0.0
+702ddef6b5b7f659ef1ed38652d91115,4,160.05439686775208,0.021165,76194.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,17,76194.0,both,1.0,0.0
+702ddef6b5b7f659ef1ed38652d91115,4,169.7046091556549,0.012573,45262.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,17,45262.8,both,1.0,0.0
+702ddef6b5b7f659ef1ed38652d91115,4,98.26071190834044,0.013847,49849.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,17,49849.2,both,1.0,0.0
+702ddef6b5b7f659ef1ed38652d91115,4,221.98477149009705,0.020072,72259.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,17,72259.2,both,1.0,0.0
+70cec3d45475d0428b47a6143a0c9370,4,199.8855574131012,0.028308,101908.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,21,101908.8,both,1.0,0.0
+70cec3d45475d0428b47a6143a0c9370,4,242.19184970855716,0.017011,61239.59999999999,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,21,61239.59999999999,both,1.0,0.0
+70cec3d45475d0428b47a6143a0c9370,4,124.91493034362792,0.019338,69616.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,21,69616.8,both,1.0,0.0
+70cec3d45475d0428b47a6143a0c9370,4,282.955607175827,0.030604,110174.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,21,110174.4,both,1.0,0.0
+76e95ff773019375ce55737d623dea78,4,157.9897837638855,0.021867,78721.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,73,78721.2,both,1.0,0.0
+76e95ff773019375ce55737d623dea78,4,169.31641936302185,0.01251,45036.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,69,45036.0,both,1.0,0.0
+76e95ff773019375ce55737d623dea78,4,98.64590048789978,0.013993,50374.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,73,50374.8,both,1.0,0.0
+76e95ff773019375ce55737d623dea78,4,222.7470810413361,0.020612,74203.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,73,74203.2,both,1.0,0.0
+79ac0ca945869f05b1fc34f4110f67d3,4,106.5104956626892,0.012292,44251.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,197,44251.2,both,1.0,0.0
+79ac0ca945869f05b1fc34f4110f67d3,4,99.61784148216248,0.006347,22849.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,193,22849.2,both,1.0,0.0
+79ac0ca945869f05b1fc34f4110f67d3,4,67.10159158706665,0.008315,29934.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,197,29934.0,both,1.0,0.0
+79ac0ca945869f05b1fc34f4110f67d3,4,148.88553595542908,0.012655,45558.0,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,197,45558.0,both,1.0,0.0
+7c65f6bd01b87407734781b6038050bc,4,127.00149750709534,0.016851,60663.600000000006,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,357,60663.600000000006,both,1.0,0.0
+7c65f6bd01b87407734781b6038050bc,4,136.7406940460205,0.009116,32817.600000000006,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,345,32817.600000000006,both,1.0,0.0
+7c65f6bd01b87407734781b6038050bc,4,81.28566718101501,0.010374,37346.4,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,357,37346.4,both,1.0,0.0
+7c65f6bd01b87407734781b6038050bc,4,180.83381032943728,0.016939,60980.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,357,60980.4,both,1.0,0.0
+7dadb571f060337fb22f22029a04228a,4,137.10957670211792,0.016351,58863.600000000006,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,281,58863.600000000006,both,1.0,0.0
+7dadb571f060337fb22f22029a04228a,4,135.20854330062866,0.007489,26960.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,273,26960.4,both,1.0,0.0
+7dadb571f060337fb22f22029a04228a,4,90.5041172504425,0.010063,36226.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,281,36226.8,both,1.0,0.0
+7dadb571f060337fb22f22029a04228a,4,201.75965666770932,0.019077,68677.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,281,68677.2,both,1.0,0.0
+81653de2d99676fa3d377640124a73ab,4,131.21095871925354,0.016753,60310.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,57,60310.8,both,1.0,0.0
+81653de2d99676fa3d377640124a73ab,4,135.93709540367126,0.008538,30736.800000000003,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,57,30736.800000000003,both,1.0,0.0
+81653de2d99676fa3d377640124a73ab,4,83.5208432674408,0.00947,34092.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,57,34092.0,both,1.0,0.0
+81653de2d99676fa3d377640124a73ab,4,184.55837059021,0.01825,65700.0,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,57,65700.0,both,1.0,0.0
+81f5a40841c2dfc0dcad2cf76c88e80e,4,82.41531300544739,0.009602,34567.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,61,34567.2,both,1.0,0.0
+81f5a40841c2dfc0dcad2cf76c88e80e,4,82.48849749565125,0.004678,16840.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,61,16840.8,both,1.0,0.0
+81f5a40841c2dfc0dcad2cf76c88e80e,4,52.7624306678772,0.00564,20304.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,61,20304.0,both,1.0,0.0
+81f5a40841c2dfc0dcad2cf76c88e80e,4,118.6409330368042,0.010704,38534.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,61,38534.4,both,1.0,0.0
+842dff1b9c5aca2c13ffaa2db0b1eb29,4,147.5277214050293,0.018809,67712.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,341,67712.4,both,1.0,0.0
+842dff1b9c5aca2c13ffaa2db0b1eb29,4,160.58160185813904,0.011044,39758.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,329,39758.4,both,1.0,0.0
+842dff1b9c5aca2c13ffaa2db0b1eb29,4,92.1783411502838,0.01182,42552.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,341,42552.0,both,1.0,0.0
+842dff1b9c5aca2c13ffaa2db0b1eb29,4,202.505912065506,0.018178,65440.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,341,65440.8,both,1.0,0.0
+852f21047c2aa03cb1fde04587083228,4,227.55915641784668,0.033068,119044.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,345,119044.8,both,1.0,0.0
+852f21047c2aa03cb1fde04587083228,4,291.4370355606079,0.021297,76669.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,333,76669.2,both,1.0,0.0
+852f21047c2aa03cb1fde04587083228,4,142.2100625038147,0.021162,76183.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,345,76183.2,both,1.0,0.0
+852f21047c2aa03cb1fde04587083228,4,322.082439661026,0.032933,118558.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,345,118558.8,both,1.0,0.0
+85718dce1eb4b3faf5afb197457e35ee,4,141.7404227256775,0.019496,70185.59999999999,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,349,70185.59999999999,both,1.0,0.0
+85718dce1eb4b3faf5afb197457e35ee,4,153.58630442619324,0.010106,36381.6,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,337,36381.6,both,1.0,0.0
+85718dce1eb4b3faf5afb197457e35ee,4,90.08994245529176,0.011372,40939.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,349,40939.2,both,1.0,0.0
+85718dce1eb4b3faf5afb197457e35ee,4,200.9515905380249,0.018809,67712.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,349,67712.4,both,1.0,0.0
+8cb3a764fd692371153c2c8503f840e0,4,198.14014649391171,0.028956,104241.6,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,273,104241.6,both,1.0,0.0
+8cb3a764fd692371153c2c8503f840e0,4,241.4554853439331,0.016532,59515.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,265,59515.2,both,1.0,0.0
+8cb3a764fd692371153c2c8503f840e0,4,124.78368496894836,0.019204,69134.4,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,273,69134.4,both,1.0,0.0
+8cb3a764fd692371153c2c8503f840e0,4,283.30501222610474,0.02911,104796.0,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,273,104796.0,both,1.0,0.0
+8d3ffe0d1458f92482106e2c9fb13c94,4,130.68864846229553,0.0161,57960.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,257,57960.0,both,1.0,0.0
+8d3ffe0d1458f92482106e2c9fb13c94,4,141.6069004535675,0.010086,36309.6,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,249,36309.6,both,1.0,0.0
+8d3ffe0d1458f92482106e2c9fb13c94,4,83.66004729270935,0.009785,35226.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,257,35226.0,both,1.0,0.0
+8d3ffe0d1458f92482106e2c9fb13c94,4,245.3823676109314,0.020888,75196.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,257,75196.8,both,1.0,0.0
+9205f3085fe97cb7a47783c3bbc01eab,4,164.7980592250824,0.02176,78336.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,133,78336.0,both,1.0,0.0
+9205f3085fe97cb7a47783c3bbc01eab,4,179.16677808761597,0.01131,40716.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,129,40716.0,both,1.0,0.0
+9205f3085fe97cb7a47783c3bbc01eab,4,104.9952836036682,0.011682,42055.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,133,42055.2,both,1.0,0.0
+9205f3085fe97cb7a47783c3bbc01eab,4,231.3468372821808,0.020774,74786.40000000001,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,133,74786.40000000001,both,1.0,0.0
+96794a104891b22bf4f2abbdd7c3e90f,4,186.6519236564636,0.02623,94428.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,33,94428.0,both,1.0,0.0
+96794a104891b22bf4f2abbdd7c3e90f,4,219.2124619483948,0.015216,54777.6,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,33,54777.6,both,1.0,0.0
+96794a104891b22bf4f2abbdd7c3e90f,4,116.02164506912231,0.016622,59839.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,33,59839.2,both,1.0,0.0
+96794a104891b22bf4f2abbdd7c3e90f,4,272.8741931915283,0.028779,103604.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,33,103604.4,both,1.0,0.0
+97d0e4e2c6056628b5ccdaf94c0c77c6,4,207.5860254764557,0.02971,106956.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,13,106956.0,both,1.0,0.0
+97d0e4e2c6056628b5ccdaf94c0c77c6,4,221.41604137420651,0.014857,53485.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,13,53485.2,both,1.0,0.0
+97d0e4e2c6056628b5ccdaf94c0c77c6,4,128.53141403198242,0.016728,60220.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,13,60220.8,both,1.0,0.0
+97d0e4e2c6056628b5ccdaf94c0c77c6,4,285.0402522087097,0.026541,95547.6,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,13,95547.6,both,1.0,0.0
+a2bf72fb2862b50b2c94c32c968265ab,4,168.119562625885,0.02342,84312.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,289,84312.0,both,1.0,0.0
+a2bf72fb2862b50b2c94c32c968265ab,4,189.5367956161499,0.012908,46468.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,277,46468.8,both,1.0,0.0
+a2bf72fb2862b50b2c94c32c968265ab,4,105.90895056724548,0.013753,49510.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,289,49510.8,both,1.0,0.0
+a2bf72fb2862b50b2c94c32c968265ab,4,246.6400227546692,0.024508,88228.79999999999,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,289,88228.79999999999,both,1.0,0.0
+a6a4c66cdd64789c73aae44ce88ee90d,4,157.22135663032532,0.022472,80899.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,325,80899.2,both,1.0,0.0
+a6a4c66cdd64789c73aae44ce88ee90d,4,169.50109910964966,0.012438,44776.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,313,44776.8,both,1.0,0.0
+a6a4c66cdd64789c73aae44ce88ee90d,4,103.57733964920044,0.013159,47372.4,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,325,47372.4,both,1.0,0.0
+a6a4c66cdd64789c73aae44ce88ee90d,4,226.8533606529236,0.020257,72925.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,325,72925.2,both,1.0,0.0
+a83c59315fe1e948e38ba49e6e54b790,4,169.96439838409424,0.022315,80334.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,41,80334.0,both,1.0,0.0
+a83c59315fe1e948e38ba49e6e54b790,4,178.35846424102783,0.011266,40557.6,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,41,40557.6,both,1.0,0.0
+a83c59315fe1e948e38ba49e6e54b790,4,107.18312311172484,0.01218,43848.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,41,43848.0,both,1.0,0.0
+a83c59315fe1e948e38ba49e6e54b790,4,236.2374448776245,0.023084,83102.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,41,83102.4,both,1.0,0.0
+ac9bd0e2514c031187b612db767fb038,4,111.61067032814026,0.013401,48243.6,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,177,48243.6,both,1.0,0.0
+ac9bd0e2514c031187b612db767fb038,4,111.62956666946413,0.006537,23533.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,173,23533.2,both,1.0,0.0
+ac9bd0e2514c031187b612db767fb038,4,72.84746837615967,0.009177,33037.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,177,33037.2,both,1.0,0.0
+ac9bd0e2514c031187b612db767fb038,4,161.67325448989868,0.016595,59741.99999999999,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,177,59741.99999999999,both,1.0,0.0
+b49ac8c578b4561d79ac7087988f1c61,4,144.31824231147766,0.020143,72514.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,213,72514.8,both,1.0,0.0
+b49ac8c578b4561d79ac7087988f1c61,4,174.58646631240845,0.01209,43524.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,205,43524.0,both,1.0,0.0
+b49ac8c578b4561d79ac7087988f1c61,4,100.9780819416046,0.012253,44110.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,213,44110.8,both,1.0,0.0
+b49ac8c578b4561d79ac7087988f1c61,4,200.07428073883057,0.020145,72522.0,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,213,72522.0,both,1.0,0.0
+b5fb4f6193360330b6ff6a52cbf0cad7,4,290.41783905029297,0.042716,153777.59999999998,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,29,153777.59999999998,both,1.0,0.0
+b5fb4f6193360330b6ff6a52cbf0cad7,4,345.7750539779663,0.025922,93319.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,29,93319.2,both,1.0,0.0
+b5fb4f6193360330b6ff6a52cbf0cad7,4,173.2076416015625,0.024709,88952.4,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,29,88952.4,both,1.0,0.0
+b5fb4f6193360330b6ff6a52cbf0cad7,4,390.1319155693054,0.039017,140461.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,29,140461.2,both,1.0,0.0
+bb60c46f5b7c352b7900043c5ef7e0a7,4,158.4510293006897,0.021472,77299.20000000001,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,233,77299.20000000001,both,1.0,0.0
+bb60c46f5b7c352b7900043c5ef7e0a7,4,169.71466970443726,0.012542,45151.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,225,45151.2,both,1.0,0.0
+bb60c46f5b7c352b7900043c5ef7e0a7,4,98.27434372901917,0.013813,49726.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,233,49726.8,both,1.0,0.0
+bb60c46f5b7c352b7900043c5ef7e0a7,4,221.91970038414,0.020636,74289.6,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,233,74289.6,both,1.0,0.0
+bb9ca5417916d86ba45d875da68c7445,4,246.28232049942017,0.033479,120524.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,229,120524.4,both,1.0,0.0
+bb9ca5417916d86ba45d875da68c7445,4,261.1029098033905,0.017339,62420.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,221,62420.4,both,1.0,0.0
+bb9ca5417916d86ba45d875da68c7445,4,150.99343752861023,0.019872,71539.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,229,71539.2,both,1.0,0.0
+bb9ca5417916d86ba45d875da68c7445,4,334.01707553863525,0.033302,119887.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,229,119887.2,both,1.0,0.0
+c122367432b22688bc63c2f329bf5286,4,82.16157913208008,0.009628,34660.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,141,34660.8,both,1.0,0.0
+c122367432b22688bc63c2f329bf5286,4,82.49150967597961,0.004811,17319.600000000002,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,137,17319.600000000002,both,1.0,0.0
+c122367432b22688bc63c2f329bf5286,4,53.035905838012695,0.005619,20228.4,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,141,20228.4,both,1.0,0.0
+c122367432b22688bc63c2f329bf5286,4,117.80132246017456,0.010618,38224.8,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,141,38224.8,both,1.0,0.0
+c2fdfa8fd144d4edce2b19d72179ced8,4,176.89144325256348,0.022836,82209.59999999999,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,121,82209.59999999999,both,1.0,0.0
+c2fdfa8fd144d4edce2b19d72179ced8,4,188.2738597393036,0.011979,43124.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,117,43124.4,both,1.0,0.0
+c2fdfa8fd144d4edce2b19d72179ced8,4,112.50237774848938,0.013809,49712.4,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,121,49712.4,both,1.0,0.0
+c2fdfa8fd144d4edce2b19d72179ced8,4,247.44756627082825,0.024022,86479.20000000001,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,121,86479.20000000001,both,1.0,0.0
+c6705a91351a406fb50dd5d79bb718f3,4,205.4877302646637,0.024657,88765.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,297,88765.2,both,1.0,0.0
+c6705a91351a406fb50dd5d79bb718f3,4,211.6997377872467,0.01427,51372.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,285,51372.0,both,1.0,0.0
+c6705a91351a406fb50dd5d79bb718f3,4,129.92204236984253,0.015507,55825.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,297,55825.2,both,1.0,0.0
+c6705a91351a406fb50dd5d79bb718f3,4,284.8670303821564,0.02638,94968.0,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,297,94968.0,both,1.0,0.0
+d0a5ff67e269a1ac4f305c618a88ac85,4,185.92066597938535,0.027523,99082.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,9,99082.8,both,1.0,0.0
+d0a5ff67e269a1ac4f305c618a88ac85,4,219.17555594444275,0.015188,54676.8,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,9,54676.8,both,1.0,0.0
+d0a5ff67e269a1ac4f305c618a88ac85,4,116.43412113189696,0.017006,61221.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,9,61221.6,both,1.0,0.0
+d0a5ff67e269a1ac4f305c618a88ac85,4,267.60918259620667,0.027924,100526.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,9,100526.4,both,1.0,0.0
+d1269d9156ddc027c40473008192958a,4,100.438862323761,0.012803,46090.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,153,46090.8,both,1.0,0.0
+d1269d9156ddc027c40473008192958a,4,101.96132230758668,0.006611,23799.6,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,149,23799.6,both,1.0,0.0
+d1269d9156ddc027c40473008192958a,4,62.46650767326355,0.007578,27280.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,153,27280.8,both,1.0,0.0
+d1269d9156ddc027c40473008192958a,4,144.05815434455872,0.013539,48740.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,153,48740.4,both,1.0,0.0
+d32d0b26d534203b48d866facd98cc3e,4,191.09237790107727,0.026659,95972.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,93,95972.4,both,1.0,0.0
+d32d0b26d534203b48d866facd98cc3e,4,227.25965189933777,0.016122,58039.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,89,58039.2,both,1.0,0.0
+d32d0b26d534203b48d866facd98cc3e,4,119.6316692829132,0.018641,67107.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,93,67107.6,both,1.0,0.0
+d32d0b26d534203b48d866facd98cc3e,4,266.66153955459595,0.028337,102013.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,93,102013.2,both,1.0,0.0
+d723fafcc2ca745c82f157d07850d40a,4,200.52450132369995,0.026743,96274.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,81,96274.8,both,1.0,0.0
+d723fafcc2ca745c82f157d07850d40a,4,242.3913006782532,0.016507,59425.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,77,59425.2,both,1.0,0.0
+d723fafcc2ca745c82f157d07850d40a,4,124.6938931941986,0.01904,68544.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,81,68544.0,both,1.0,0.0
+d723fafcc2ca745c82f157d07850d40a,4,283.258104801178,0.031541,113547.6,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,81,113547.6,both,1.0,0.0
+e09c915a4a4798c2bb9bc2d2222887de,4,96.56651258468628,0.011967,43081.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,125,43081.2,both,1.0,0.0
+e09c915a4a4798c2bb9bc2d2222887de,4,100.0270540714264,0.006532,23515.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,121,23515.2,both,1.0,0.0
+e09c915a4a4798c2bb9bc2d2222887de,4,60.49085450172424,0.007537,27133.2,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,125,27133.2,both,1.0,0.0
+e09c915a4a4798c2bb9bc2d2222887de,4,136.06771206855774,0.013264,47750.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,125,47750.4,both,1.0,0.0
+e4c6dbcf55cae25268c414a0bdc621ec,4,72.44616341590881,0.008866,31917.6,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,269,31917.6,both,1.0,0.0
+e4c6dbcf55cae25268c414a0bdc621ec,4,85.83415985107422,0.006045,21762.0,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,261,21762.0,both,1.0,0.0
+e4c6dbcf55cae25268c414a0bdc621ec,4,46.88692808151245,0.006451,23223.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,269,23223.6,both,1.0,0.0
+e4c6dbcf55cae25268c414a0bdc621ec,4,111.30411458015442,0.010589,38120.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,269,38120.4,both,1.0,0.0
+e5a8038201ff317594fa62c45ecd2d05,4,241.39056420326236,0.035099,126356.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,241,126356.4,both,1.0,0.0
+e5a8038201ff317594fa62c45ecd2d05,4,273.21120047569275,0.019497,70189.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,233,70189.2,both,1.0,0.0
+e5a8038201ff317594fa62c45ecd2d05,4,147.04458832740784,0.019578,70480.8,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,241,70480.8,both,1.0,0.0
+e5a8038201ff317594fa62c45ecd2d05,4,328.78821897506714,0.034176,123033.6,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,241,123033.6,both,1.0,0.0
+e5e6fc9315ad8a73344f723dbede3ecd,4,131.5366542339325,0.017602,63367.2,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,245,63367.2,both,1.0,0.0
+e5e6fc9315ad8a73344f723dbede3ecd,4,136.09422969818115,0.008854,31874.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,237,31874.4,both,1.0,0.0
+e5e6fc9315ad8a73344f723dbede3ecd,4,83.90415644645691,0.009791,35247.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,245,35247.6,both,1.0,0.0
+e5e6fc9315ad8a73344f723dbede3ecd,4,185.64497566223145,0.017379,62564.4,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,245,62564.4,both,1.0,0.0
+e773a7a186b03b0957d57fed0f4d014a,4,59.432315826416016,0.006759,24332.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,45,24332.4,both,1.0,0.0
+e773a7a186b03b0957d57fed0f4d014a,4,66.09929466247559,0.004189,15080.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,45,15080.4,both,1.0,0.0
+e773a7a186b03b0957d57fed0f4d014a,4,38.7147228717804,0.005004,18014.4,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,45,18014.4,both,1.0,0.0
+e773a7a186b03b0957d57fed0f4d014a,4,88.32082200050354,0.008345,30042.0,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,45,30042.0,both,1.0,0.0
+e7f31293566724324d3ccc875f097f01,4,94.80781245231628,0.012284,44222.4,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,49,44222.4,both,1.0,0.0
+e7f31293566724324d3ccc875f097f01,4,107.66507029533386,0.007324,26366.4,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,49,26366.4,both,1.0,0.0
+e7f31293566724324d3ccc875f097f01,4,61.56719636917114,0.007866,28317.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,49,28317.6,both,1.0,0.0
+e7f31293566724324d3ccc875f097f01,4,135.240403175354,0.012692,45691.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,49,45691.2,both,1.0,0.0
+fca3d3671f135e0347cd3688f3f34cad,4,152.11629915237427,0.022635,81486.0,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,145,81486.0,both,1.0,0.0
+fca3d3671f135e0347cd3688f3f34cad,4,187.0058801174164,0.013532,48715.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,141,48715.2,both,1.0,0.0
+fca3d3671f135e0347cd3688f3f34cad,4,94.89676451683044,0.012321,44355.6,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,145,44355.6,both,1.0,0.0
+fca3d3671f135e0347cd3688f3f34cad,4,218.00071597099304,0.024052,86587.2,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,145,86587.2,both,1.0,0.0
+fcc1e77f36eb12f3fbecee43a084cd65,4,182.591392993927,0.023508,84628.8,Quadro RTX 6000,data\raw\ec_nas\hardware_tfrecords\quadrortx6000.tfrecord,149,84628.8,both,1.0,0.0
+fcc1e77f36eb12f3fbecee43a084cd65,4,194.05794525146484,0.012727,45817.2,RTX 3060,data\raw\ec_nas\hardware_tfrecords\rtx3060.tfrecord,145,45817.2,both,1.0,0.0
+fcc1e77f36eb12f3fbecee43a084cd65,4,115.21980738639832,0.014785,53226.0,RTX 3090,data\raw\ec_nas\hardware_tfrecords\rtx3090.tfrecord,149,53226.0,both,1.0,0.0
+fcc1e77f36eb12f3fbecee43a084cd65,4,254.1360821723938,0.02619,94284.0,Titan Xp,data\raw\ec_nas\hardware_tfrecords\titanxp.tfrecord,149,94284.0,both,1.0,0.0
